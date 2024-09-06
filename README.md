@@ -1,2 +1,2 @@
 # 2024-intro-DA-code
-2024 Dongyang Mirae university DA
+2024 Dongyang Mirae University DA
