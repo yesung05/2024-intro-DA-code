@@ -1,2 +1,4 @@
 # 2024-intro-DA-code
-2024 Dongyang Mirae University DA
+동양미래대학교 2024학년도 2학기 데이터분석 입문 깃허브
+
+❗❗❗과제 제꺼 복사해가지 마세요❗❗❗
